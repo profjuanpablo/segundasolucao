@@ -1,0 +1,15 @@
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\bin\Debug\net6.0\01-ComandosCondicionais.exe
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\bin\Debug\net6.0\01-ComandosCondicionais.deps.json
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\bin\Debug\net6.0\01-ComandosCondicionais.runtimeconfig.json
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\bin\Debug\net6.0\01-ComandosCondicionais.dll
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\bin\Debug\net6.0\01-ComandosCondicionais.pdb
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.csproj.AssemblyReference.cache
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.AssemblyInfoInputs.cache
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.AssemblyInfo.cs
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.csproj.CoreCompileInputs.cache
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.dll
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\refint\01-ComandosCondicionais.dll
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.pdb
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\01-ComandosCondicionais.genruntimeconfig.cache
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\01-ComandosCondicionais\obj\Debug\net6.0\ref\01-ComandosCondicionais.dll

@@ -1,0 +1,15 @@
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\bin\Debug\net6.0\Exe01.exe
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\bin\Debug\net6.0\Exe01.deps.json
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\bin\Debug\net6.0\Exe01.runtimeconfig.json
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\bin\Debug\net6.0\Exe01.dll
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\bin\Debug\net6.0\Exe01.pdb
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.csproj.AssemblyReference.cache
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.GeneratedMSBuildEditorConfig.editorconfig
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.AssemblyInfoInputs.cache
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.AssemblyInfo.cs
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.csproj.CoreCompileInputs.cache
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.dll
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\obj\Debug\net6.0\refint\Exe01.dll
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.pdb
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\obj\Debug\net6.0\Exe01.genruntimeconfig.cache
+D:\notebook\Impacta\TurmaNoite\SegundaSolucao\Exe01\obj\Debug\net6.0\ref\Exe01.dll
